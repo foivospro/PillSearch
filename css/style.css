@@ -849,5 +849,25 @@ a:focus {
   color: #fbfcfd;
 }
 
+button {
+  background-color: #202120; /* black background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 24px; /* Some padding */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Make it a block element */
+  font-size: 16px; /* Increase font size */
+  margin: 4px 2px; /* Add some margin */
+  cursor: pointer; /* Change cursor style on hover */
+  
+}
+
+button:hover {
+  background-color: #0e160e;
+}
+
+
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
